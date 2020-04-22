@@ -141,3 +141,4 @@ _zbnc_zsh_better_npm_completion() {
 }
 
 compdef _zbnc_zsh_better_npm_completion npm
+compdef _zbnc_zsh_better_npm_completion yarn
