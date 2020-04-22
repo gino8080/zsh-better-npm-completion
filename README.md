@@ -1,6 +1,6 @@
 # zsh-better-npm-completion
 
-> Better completion for `npm`
+> Better completion for `npm` AND `yarn`
 
 <img src="demo.gif" width="690">
 
